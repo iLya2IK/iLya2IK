@@ -1,11 +1,11 @@
-<h1 align="center">iLya2IK</h1>
+<h1 align="center">Hello! My name <b>Ilya</b></h1>
 
 <div align="center">
 <a href="mailto:sggdev.im@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <div align="center">
 <a href="https://github.com/iLya2IK">
-   <img src="https://img.shields.io/github/followers/iLya2IK?style=for-the-badge" alt="Github"/>
+   <img src="https://img.shields.io/github/followers/iLya2IK?style=for-the-badge" alt="GitHub"/>
 </a><img src="https://komarev.com/ghpvc/?username=iLya2IK&style=for-the-badge&color=blue" alt=""/>
 </div>
 
@@ -18,11 +18,12 @@
 
 <div align="center">   
   <img src="https://wiki.freepascal.org/images/2/25/paw.png" title="Free Pascal/Lazarus"  alt="Free Pascal/Lazarus" height="40" width="auto" />&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++"  alt="C++" width="40" height="40"/>&nbsp;    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Sqlite" alt="Sqlite" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C"  alt="C" width="50" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++"  alt="C++" width="50" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="Sqlite" width="50" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="40"/>
 </div>
 
 <div align="center">
