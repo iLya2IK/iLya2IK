@@ -1,4 +1,4 @@
-<h1 align="center">Hello! My name <b>Ilya</b></h1>
+<h1 align="center">Hello! My name is <b>Ilya</b></h1>
 
 <div align="center">
 <a href="mailto:sggdev.im@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
