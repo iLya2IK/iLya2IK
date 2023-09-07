@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/iLya2IK">
-    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iLya2IK&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iLya2IK&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true&rank_icon=percentile"/>
     <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iLya2IK&theme=dracula&hide_border=false&&layout=compact&langs_count=8"/>
   </a>
 </div>
