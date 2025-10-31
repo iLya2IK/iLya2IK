@@ -18,7 +18,7 @@
 
 <div align="center">   
   <img src="https://wiki.freepascal.org/images/2/25/paw.png" title="Free Pascal/Lazarus"  alt="Free Pascal/Lazarus" height="40" width="auto" />&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C"  alt="C" width="50" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="50" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++"  alt="C++" width="50" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="40"/>&nbsp;  
